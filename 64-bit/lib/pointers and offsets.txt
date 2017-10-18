@@ -1,0 +1,15 @@
+zoom hack  ----> "League of Legends.exe"+16ACA28 +238 +c (FLOAT)
+	2250 max zoom and 1000 min zoom
+
+health       ----> "League of Legends.exe"+16A985C +94 +0 +18 (FLOAT)
+max health   ----> "League of Legends.exe"+16A985C +98 +0 +18 (FLOAT)
+physical dmg ----> "League of Legends.exe"+16A985C +10 +10 +4 +20 (FLOAT)
+ 
+target health     ----> "League of Legends.exe"+16A985C +94 +4 +6c (FLOAT)
+target max health ----> "League of Legends.exe"+16A985C +98 +4 +6c (FLOAT)
+target armor      ----> "League of Legends.exe"+16A985C +8 +14 +6c (FLOAT)
+
+// -----------------THIS IS JUST RANDOM TESTING---------------------
+last pos  ----> 
+	search for 257 when visible and 256 when not visible (2BYTE)
+	you must do this for every enemy :(:(:(

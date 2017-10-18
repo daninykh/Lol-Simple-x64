@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.web.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="150.0" prefWidth="250.0" style="-fx-background-color: #1F1F1F;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <BorderPane prefHeight="150.0" prefWidth="250.0">
+         <center>
+            <AnchorPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Label layoutX="27.0" layoutY="32.0" text="Zoom" textFill="#ababab" />
+                  <Slider blockIncrement="100.0" layoutX="65.0" layoutY="32.0" majorTickUnit="1000.0" max="6000.0" min="1000.0" minorTickCount="100" prefHeight="38.0" prefWidth="159.0" showTickLabels="true" showTickMarks="true" snapToTicks="true" value="2250.0" />
+                  <ProgressBar layoutX="25.0" layoutY="84.0" prefWidth="200.0" progress="1.0" style="-fx-accent: green;" />
+                  <Label layoutX="26.0" layoutY="67.0" text="Health" textFill="#ababab" />
+                  <Label layoutX="133.0" layoutY="120.0" text="Credits to Abhi" textFill="#f2ff00" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="20.0" layoutX="122.0" layoutY="118.0" stroke="RED" strokeType="INSIDE" width="102.0" />
+                  <Label layoutX="27.0" layoutY="6.0" text="Simple Legends v2.4.3" textFill="#ff00fb" underline="true" />
+               </children>
+            </AnchorPane>
+         </center>
+      </BorderPane>
+   </children>
+</AnchorPane>
