@@ -1,5 +1,9 @@
+I didn't completely finish this because I got bored.
+
 # Lol Simple v2.4.3 (64-bit)
 
+Purpose
+============================
 I barely understand C++ (which is why I don't know how to make the 
 32-bit version :pensive:), however, I know Java really well. 
 I used basic C++ to read from and write to, League of Legends.
