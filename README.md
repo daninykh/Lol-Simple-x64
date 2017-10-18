@@ -16,7 +16,7 @@ Anyways, here are all the features.
 **Auto Minion Kill**                                                                                                     |
 **Set a Macro on your health** (I didn't finish this one all the way, however, you can see your health :smile:)          |
 
-**Here is an example picture**
+**Here is the concept picture** (The view changed slightly)
 
 ![picture alt](https://raw.githubusercontent.com/Kayzio/Lol-Simple-x64/master/64-bit/res/images/concept_image.png "Lol Simple v2.4.3 example picture")
 
