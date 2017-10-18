@@ -14,10 +14,10 @@ Anyways, here are all the features.
 ----------------------------------------                                                                                 |
 **Zoom Hack** (You can zoom out as much as you like)	                                                                 |
 **Auto Minion Kill**                                                                                                     |
-**Set a Macro on your healt** (I didn't finish this one all the way, however, you can see your health :smile:)           |
+**Set a Macro on your health** (I didn't finish this one all the way, however, you can see your health :smile:)          |
 
 **Here is an example picture**
 
-![picture alt](./64-bit/res/images/concept_image.png.png "Lol Simple v2.4.3 example picture")
+![picture alt](https://raw.githubusercontent.com/Kayzio/Lol-Simple-x64/master/64-bit/res/images/concept_image.png "Lol Simple v2.4.3 example picture")
 
 :star:Created by **Kayzio Groups**:star:
