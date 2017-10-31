@@ -1,5 +1,11 @@
 I didn't completely finish this because I got bored.
 
+** PLEASE NOTE **
+The MainJNI.cpp file will need to be updated with more recent
+pointers. These can be easily found using cheat engine. If you
+need help finding them, message me via email. Once you update
+the new values, you must create a shared dll from this file.
+
 # Lol Simple v2.4.3 (64-bit)
 
 Purpose
